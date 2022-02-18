@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Kolaborasi1">
         <activity
+            android:name=".Anggota2Activity"
+            android:exported="false" />
+        <activity
             android:name=".kolaborasiActivity"
             android:exported="false" />
         <activity
